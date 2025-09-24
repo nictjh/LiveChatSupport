@@ -1,5 +1,6 @@
 ## To start a single-agent CLI, run:
 ##   python agent_cli.py --url ws://localhost:8000/ws ##
+##   python3 agent_cli.py --url wss://deviation-addressing-adjust-trying.trycloudflare.com/ws
 ## Replace the URL with your own WebSocket endpoint.
 
 
