@@ -23,7 +23,7 @@ This project demonstrates how banks or mobile apps could integrate a lightweight
 
 
 - **React Native Customer Screen (optional)**
-Reference here: [React Native Example](https://github.com/nictjh)
+Reference here: [React Native Example](https://github.com/nictjh/android-mobile-banking-app/blob/main/app/LiveChatScreen.jsx)
 
 ---
 
@@ -76,7 +76,7 @@ For production deployment tips, WebSocket proxying, and Android release build co
 ## ✨ Features
 - Single support agent at a time
 - FIFO queue for customers
-- Minimal JSON message protocol (`hello`, `message.end`, `end`), [Reference](https://github.com/nictjh)
+- Minimal JSON message protocol (`hello`, `message.end`, `end`), [Reference](https://docs.google.com/document/d/1evXQAh51Q2q2EsQfDhLsNevk9rW9U29GWngEuLDeCNg/edit?usp=sharing)
 - In-memory transcripts printed on conversation close
 - Agent CLI with interactive typing and simple commands.
 
